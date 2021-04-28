@@ -71,10 +71,21 @@ Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode 
 <img width="1136" alt="Bildschirmfoto 2021-04-28 um 17 06 50" src="https://user-images.githubusercontent.com/35576062/116427413-4b547200-a844-11eb-80fa-073187f7ecdf.png">
 
 
-31. Speicherort auswählen XXX
-32. Jetzt im Finder den Ordner suchen, wo Sie das eben abgespeicherte Archiv abgelegt haben
-33. Doppelklick auf Binnen-I be gone
-34. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
+30. Klicken Sie auf "Copy App"
+
+<img width="1136" alt="Bildschirmfoto 2021-04-28 um 17 08 41" src="https://user-images.githubusercontent.com/35576062/116427650-7e970100-a844-11eb-9557-0530816a6a79.png">
+
+
+31. Speicherort auswählen
+<img width="1136" alt="Bildschirmfoto 2021-04-28 um 17 10 18" src="https://user-images.githubusercontent.com/35576062/116427905-b9993480-a844-11eb-9287-a4c41a610bf4.png">
+
+
+33. Jetzt im Finder den Ordner suchen, wo Sie das eben abgespeicherte Archiv abgelegt haben
+<img width="1386" alt="Bildschirmfoto 2021-04-28 um 17 12 28" src="https://user-images.githubusercontent.com/35576062/116428251-0a109200-a845-11eb-9e2e-57b873515dac.png">
+
+
+35. Doppelklick auf Binnen-I be gone
+36. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
 
 Fertig
 
