@@ -1,6 +1,13 @@
 # Binnen-I-be-gone-für-Safari
 Für alle, die Binnen-I be gone für Safari bislang vermisst haben
 
+
+Leider gibt es für Safari relativ wenig Addons, so gibt es auch keine Binnen-I be gone Erweiterung. 
+Zum Glück hat Apple in ihre Entwicklungsumgebung Xcode ein Übersetzer eingebaut, mit dem man Chrome oder Firefox Erweiterungen einfach für Safari übersetzen lassen kann. 
+
+Dies ist eine Anleitung wie man das Beliebte Binnen-I be gone Addon für Chrome oder Firefox für Safari übersetzten kann. 
+Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode und dem Terminal schadet allerdings auch nicht. 
+
 Anleitung noch nicht vollständig 
 
 1. Google Chrome installieren (sollte auch mit Firefox funktionieren) und die Binnen-I be gone Erweiterung installieren 
