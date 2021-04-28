@@ -12,8 +12,13 @@ Anleitung noch nicht vollständig
 
 1. Google Chrome installieren (sollte auch mit Firefox funktionieren) und die Binnen-I be gone Erweiterung installieren 
 2. Xcode installieren
-3. Seine Apple ID für den Entwickler Modus freischalten (Link) https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1
-4. Xcode starten. Wenn man gefragt wird, ob man zusätzliche Komponenten installieren möchte auf "Install" klicken
+3. Seine Apple ID für den Entwickler Modus freischalten (Link) 
+[Link](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1)
+
+<img width="2048" alt="Bildschirmfoto 2021-04-28 um 16 33 23" src="https://user-images.githubusercontent.com/35576062/116421855-82745480-a83f-11eb-850f-58106de3345a.png">
+ 
+5. Xcode starten. Wenn man gefragt wird, ob man zusätzliche Komponenten installieren möchte auf "Install" klicken
+![1ca552c25db049bc850a4cc3db084a08](https://user-images.githubusercontent.com/35576062/116421679-5b1d8780-a83f-11eb-9c6f-50fe6d2ea575.png)
 
 5. In den Einstellungen von Xcode unter XXX seine Apple ID eintragen
 6. Xcode schließen
