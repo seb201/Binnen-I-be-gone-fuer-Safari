@@ -33,7 +33,7 @@ Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode 
 ![img](https://user-images.githubusercontent.com/35576062/116423911-6376c200-a841-11eb-9102-a86f840c812a.png)
 
 
-8. Nach /Users/BENUTZERNAME/Library/Application Support/Google/Chrome/Default/Extensions Navigieren und den Ordner 2.7_0 kopieren
+8. Nach /Users/BENUTZERNAME/Library/Application Support/Google/Chrome/Default/Extensions/ginkajgcbeolbiflkjomlkcdapbegaff Navigieren und den Ordner 2.7_0 kopieren
 
 9. Irgendwo einen neuen Ordner erstellen für das Xcode Projekt, z.B. bei /Dokumente/Xcode/Binnen-I be gone
 
