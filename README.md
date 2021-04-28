@@ -13,7 +13,8 @@ Anleitung noch nicht vollständig
 1. Google Chrome installieren (sollte auch mit Firefox funktionieren) und die Binnen-I be gone Erweiterung installieren 
 2. Xcode installieren
 3. Seine Apple ID für den Entwickler Modus freischalten (Link) https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1
-4. Xcode starten. Wenn man gefragt wird, ob man zusätzliche Komponenten installieren möchte auf "Install" klicken 
+4. Xcode starten. Wenn man gefragt wird, ob man zusätzliche Komponenten installieren möchte auf "Install" klicken
+
 5. In den Einstellungen von Xcode unter XXX seine Apple ID eintragen
 6. Xcode schließen
 7. Finder öffnen, mit Shift+Command+. versteckte Ordner Anzeigen lassen
