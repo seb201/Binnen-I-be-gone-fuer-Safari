@@ -86,9 +86,10 @@ Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode 
 
 35. Doppelklick auf Binnen-I be gone
 36. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
+<img width="1072" alt="Bildschirmfoto 2021-04-28 um 17 20 34" src="https://user-images.githubusercontent.com/35576062/116429348-1a753c80-a846-11eb-806a-b36951fad18e.png">
+
 
 Fertig
 
-Dank an
 
-Idee
+Idee von [(Link)](https://www.heise.de/forum/heise-online/Kommentare/Ex-Mitarbeiter-Facebook-fuerchtet-Blindflug-durch-Apples-Tracking-Transparenz/Gendern-Abhilfe-unter-Safari/thread-6684769/#posting_38538985) 
