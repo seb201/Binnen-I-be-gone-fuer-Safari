@@ -35,3 +35,7 @@ Anleitung noch nicht vollständig
 22. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
 
 Fertig
+
+Dank an
+
+Idee
