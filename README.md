@@ -56,15 +56,25 @@ Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode 
 16. Jetzt sollte sich Xcode öffnen 
 
 17. Nun wie in den unten stehenden Bildern, das Entwicklerzertifikat auf sein eigenes Zertifikat umbiegen 
-<img width="1512" alt="Bildschirmfoto 2021-04-28 um 16 58 35" src="https://user-images.githubusercontent.com/35576062/116426034-10057380-a843-11eb-94b3-6fc35d6f5ea4.png">
+<img width="1512" alt="Bildschirmfoto 2021-04-28 um 16 58 35" src="https://user-images.githubusercontent.com/35576062/116426642-94f08d00-a843-11eb-9fec-d83f773d8460.png">
+
+<img width="1512" alt="Bildschirmfoto 2021-04-28 um 17 01 06" src="https://user-images.githubusercontent.com/35576062/116426677-9cb03180-a843-11eb-9f75-a5e92839d28b.png">
 
 
-27. Testen Sie das Programm unter XXX
-28. Klicken Sie auf Archiv dann auf XXX
-29. Speicherort auswählen XXX
-30. Jetzt im Finder den Ordner suchen, wo Sie das eben abgespeicherte Archiv abgelegt haben
-31. Doppelklick auf Binnen-I be gone
-32. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
+27. Testen Sie das Programm unter "Product" "Build"
+<img width="1400" alt="Bildschirmfoto 2021-04-28 um 17 03 59" src="https://user-images.githubusercontent.com/35576062/116426962-e0a33680-a843-11eb-93d6-5e4011318522.png">
+
+
+29. Klicken Sie auf "Product" "Archiv" dann auf "Distribute App"
+<img width="1400" alt="Bildschirmfoto 2021-04-28 um 17 05 36" src="https://user-images.githubusercontent.com/35576062/116427382-4394cd80-a844-11eb-9873-83ed0bdacf39.png">
+
+<img width="1136" alt="Bildschirmfoto 2021-04-28 um 17 06 50" src="https://user-images.githubusercontent.com/35576062/116427413-4b547200-a844-11eb-80fa-073187f7ecdf.png">
+
+
+31. Speicherort auswählen XXX
+32. Jetzt im Finder den Ordner suchen, wo Sie das eben abgespeicherte Archiv abgelegt haben
+33. Doppelklick auf Binnen-I be gone
+34. Nun nur noch in den Safari Einstellungen bei Erweiterungen die Binnen-I be gone Erweiterung mit dem Häckchen aktivieren
 
 Fertig
 
