@@ -41,7 +41,7 @@ Keine Angst, selber programmieren muss man nicht, ein bisschen Ahnung von Xcode 
 <img width="1136" alt="Bildschirmfoto 2021-04-28 um 16 49 21" src="https://user-images.githubusercontent.com/35576062/116424447-cf592a80-a841-11eb-8b9c-5c1d480234c1.png">
 
 
-11. Terminal öffnen und zu dem gerade kopierten Ordner navigieren. Wenn Sie dem obrigen Beispiel gefolgt sind müssen Sie cd /Users/seb201/Documents/Xcode/Binnen-I\ be\ gone eintippen
+11. Terminal öffnen und zu dem gerade kopierten Ordner navigieren. Wenn Sie dem obrigen Beispiel gefolgt sind müssen Sie cd /Users/BENUTZERNAME/Documents/Xcode/Binnen-I\ be\ gone eintippen
 
 12. Ins Terminal ls eingeben, jetzt sollte da 2.7_0 stehen, wenn nicht sind Sie im falschen Ordner oder haben den falschen Ordner kopiert
 <img width="682" alt="Bildschirmfoto 2021-04-28 um 16 52 03" src="https://user-images.githubusercontent.com/35576062/116425074-51495380-a842-11eb-992a-f29b6c954ecb.png">
